@@ -1,0 +1,7 @@
+[project]
+name = "bcc-students-course"
+version = "0.1.0"
+description = "Understanding UFABC B.Sc. Computer Science's students course"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
