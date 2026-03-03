@@ -1,0 +1,7 @@
+- por que alunjos ficam tanto tempo na universidade? ficar mto tempo tem a ver com evasão 
+- condição dos egressos
+- impactos e desafios do PPC do BCC da UFABC
+- ~descontinuação da reserva de vaga
+- não sabemos quantos alunos querem fazer o curso, e entender as trajetorias pode nos ajudar a fazer isso
+- alunos que fazem outros CFS como estrategia pra subir o CPk do BCC
+- quantos alunos que se matricularam no BCT/BCC em 20xx seguem fazendo o curso?
