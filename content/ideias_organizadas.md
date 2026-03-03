@@ -38,6 +38,12 @@ trajetódias de discentes em ciência da computação na UFABC: histórico e fut
 
 * quantas vagas cursos de similar porte oferecem?
 
+* como medir engajamento?
+  * IC/PDPD
+  * entidades
+  * representação discente
+  * abandono de disciplinas
+
 ## Modelagem dos dados
 
 * modelar um sistema com muitas variá/veis e tentar prever qual mudança no sistema de matriculas é melhor, pq a gnte nmão vai ganhar

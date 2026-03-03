@@ -1,42 +1,39 @@
-# a
+## Definindo o perfil da discente
 
-* *O que leva alguém
+* O que leva alguém a decidir:
 
-  * a decidir estudar na UFABC?
+  * estudar na UFABC?
 
-  * a decidir pelo curso de ciência da computação?
+  * cursar ciência da computação?
 
-  * a decidir por fazer outro curso concomitantemente ao BCC
+  * cursar outro CFE concomitantemente ao BCC
 
-  * a desistir do BCC
+  * desistir do BCC
 
+## Caracterizando a discente do curso
 
-* Aderência ao quadri ideal
+### Métricas relacionadas com a universidade
 
-  * por opção ou por falta de opção?
+* Discente considera que teve educação básica e de nível médio adequada para acompanhar as atividades acadêmicas? Se não, as atividades de nivelamento da universidade tiveram resultado?
+* Aderência ao quadri ideal: por opção ou por falta de opção?
+* Discente solicitou mudança de turno? Se sim, quais os motivos?
+* Discente está inserido no mercado de trabalho? Quais os motivos (vontade, necessidade, oportunidade)? Qual o perfil da empregadora? Qual o alinhamento da atividade exercida com o curso (função total e parcialmente relacionadas, função não relacionada).
+* Discente conduz atividades de pesquisa? De qual tipo (PDPD, IC, PIBID)? Recebe bolsas? Pretende continuar com os estudos acadêmicos?
+* Discente necessita de auxílio econômico para frequentar plenamente as atividades acadêmicas? Discente conseguiu esse auxílio?
+* Discente possui computador que permite desenvolver as atividades acadêmicas? Se não, os computadores da universidade viabilizam o desenvolvimento dessas atividades?
+* Discente lida com questões de natureza psicossocial que afetam sua capacidade de acompanhar as atividades acadêmicas?
+* Discente é uma pessoa com deficiência?
+* Discente reside próximo do campus? Residia próximo do campus antes do ingresso na UFABC? 
 
+### Métricas relacionadas ao posicionamento social da discente, da universidade, do curso
 
-* Mudança de turno
+* genero
+* race
+* classe
+* região de origem
+* deficienia
+* neurotipo
 
-
-* Atuação profissional:
-
-  * Por escolha ou não?
-
-  * Por necessidade?
-
-  * Na área de formação?
-
-
-* Recepção de bolsas:
-
-  * Auxílios socioeconômicos
-
-  * Bolsas de pesquisa (PIBID, IC, PDPD, Fapesp?)
-
-* Desejo de estabelecer carreira acadêmica
-
-* Componentes sociais: genero, race, classe, região de origem, deficienia, neurotipo.
 * Comparação com outro
 s cursos parecidos
 
@@ -49,6 +46,4 @@ s cursos parecidos
 * Quem ocupa as vagas do curso, se não são os bixos?
 
 
-------
 podemos definir scores de: empregabilidade, risco socioeconomico, interesse e afinidade com a área, interesse e afinidade com outras áreas
-
