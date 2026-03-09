@@ -1,0 +1,11 @@
+bases_de_dados:
+  - name: Colação de grau (bd_prograd05)
+    url: https://dados.ufabc.edu.br/bases-dados/40-bd-prograd05
+    columns_dictionary: https://dados.ufabc.edu.br/images/ufabc/prograd/dicionarios_prograd/dicionario_bd_prograd05.pdf
+    institutional_description: 
+    anas_description: discentes que colaram grau no referido quadrimestre, vinculando o nome ao curso e à data de conclusão.
+  - name: Relação de alunos regulares de graduação (bd_prograd20)
+    url: https://dados.ufabc.edu.br/bases-dados/25-bd-prograd20
+    columns_dictionary: https://dados.ufabc.edu.br/images/ufabc/prograd/dicionarios_prograd/dicionario_bd_prograd20.pdf
+    institutional_description: Relação de alunos de graduação com matrícula em pelo menos um curso ou com matrícula regular em disciplinas de graduação
+    anas_description: discentes vinculados a algum curso de graduação ou matriculados em alguma disciplina. 
