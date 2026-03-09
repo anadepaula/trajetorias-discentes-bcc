@@ -1,7 +1,18 @@
 [project]
-name = "bcc-students-course"
+name = "trajetorias-discentes-bcc-ufabc"
 version = "0.1.0"
 description = "Understanding UFABC B.Sc. Computer Science's students course"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "google-cloud-storage>=3.9.0",
+    "ipykernel>=7.2.0",
+    "loguru>=0.7.3",
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.0",
+    "pyyaml>=6.0.3",
+    "requests>=2.32.5",
+    "seaborn>=0.13.2",
+    "unidecode>=1.4.0",
+]
