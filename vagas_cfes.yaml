@@ -1,0 +1,224 @@
+2010:
+  q1:
+    diurno_total_vagas: 70
+    noturno_total_vagas: 70
+2011:
+  q1:
+    diurno_total_vagas: 67
+    noturno_total_vagas: 58
+  q2:
+    diurno_total_vagas: 69
+    noturno_total_vagas: 63
+  q3:
+    diurno_total_vagas: 70
+    noturno_total_vagas: 70
+2012:
+  q1:
+    diurno_total_vagas: 70
+    noturno_total_vagas: 70
+  q2:
+    diurno_total_vagas: 68
+    noturno_total_vagas: 64
+2013:
+  q0:
+    diurno_total_vagas: 63
+    noturno_total_vagas: 63
+  q1:
+    diurno_total_vagas: 62
+    noturno_total_vagas: 63
+  q2:
+    diurno_total_vagas: 70
+    noturno_total_vagas: 70
+  q3:
+    diurno_total_vagas: 68
+    noturno_total_vagas: 56
+2014:
+  q1:
+    diurno_total_vagas: 70
+    noturno_total_vagas: 70
+  q2:
+    diurno_total_vagas: 62
+    noturno_total_vagas: 59
+  q3:
+    diurno_total_vagas: 59
+    noturno_total_vagas: 42
+2015:
+  q1:
+    diurno_total_vagas: 70
+    noturno_total_vagas: 70
+  q2:
+    diurno_total_vagas: 62
+    noturno_total_vagas: 52
+  q3:
+    diurno_total_vagas: 55
+    noturno_total_vagas: 38
+2016:
+  q1:
+    diurno_total_vagas: 70
+    noturno_total_vagas: 70
+  q2:
+    diurno_total_vagas: 58
+    noturno_total_vagas: 35
+  q3:
+    diurno_total_vagas: 52
+    noturno_total_vagas: 0
+2017:
+  q1:
+    diurno_total_vagas: 70
+    noturno_total_vagas: 70
+  q2:
+    diurno_vagas_ano_atual: 52
+    noturno_vagas_ano_atual: 22
+    diurno_vagas_remanescentes: 30
+    noturno_vagas_remanescentes: 0
+  q3:
+    diurno_vagas_ano_atual: 28
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 29
+    noturno_vagas_remanescentes: 3
+2018:
+  q1: 
+    diurno_vagas_ano_atual: 70
+    noturno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 16
+    noturno_vagas_remanescentes: 3
+  q2: 
+    diurno_vagas_ano_atual: 54
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+  q3: 
+    diurno_vagas_ano_atual: 8
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 21
+    noturno_vagas_remanescentes: 10
+2019:
+  q1:
+    diurno_vagas_ano_atual: 70
+    noturno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 6
+    noturno_vagas_remanescentes: 0
+  q2:
+    diurno_vagas_ano_atual: 51
+    noturno_vagas_ano_atual: 3
+    diurno_vagas_remanescentes: 7
+    noturno_vagas_remanescentes: 2
+  q3:
+    diurno_vagas_ano_atual: 32
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+2020:
+  q1:
+    diurno_vagas_ano_atual: 70
+    noturno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+  q2:
+    diurno_vagas_ano_atual: 52
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 2
+  q3:
+    diurno_vagas_ano_atual: 25
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+2021:
+  q1:
+    diurno_vagas_ano_atual: 70
+    noturno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+  q2:
+    diurno_vagas_ano_atual: 57
+    noturno_vagas_ano_atual: 2
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+  q3:
+    diurno_vagas_ano_atual: 0
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 1
+2022:
+  q1:
+    diurno_vagas_ano_atual: 70
+    noturno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+  q2:
+    diurno_vagas_ano_atual: 25
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+  q3:
+    diurno_vagas_ano_atual: 25
+    noturno_vagas_ano_atual: 0
+    diurno_vagas_remanescentes: 0
+    noturno_vagas_remanescentes: 0
+2023:
+  q1:
+    diurno_total_vagas: 70
+    diurno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 0
+    noturno_total_vagas: 71
+    noturno_vagas_ano_atual: 70
+    noturno_vagas_remanescentes: 1
+  q2:
+    diurno_total_vagas: 63
+    diurno_vagas_ano_atual: 62
+    diurno_vagas_remanescentes: 1
+    noturno_total_vagas: 42
+    noturno_vagas_ano_atual: 42
+    noturno_vagas_remanescentes: 0
+  q3:
+    diurno_total_vagas: 57
+    diurno_vagas_ano_atual: 57
+    diurno_vagas_remanescentes: 0
+    noturno_total_vagas: 17
+    noturno_vagas_ano_atual: 17
+    noturno_vagas_remanescentes: 0
+2024:
+  q1:
+    diurno_total_vagas: 118
+    diurno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 48
+    noturno_total_vagas: 71
+    noturno_vagas_ano_atual: 70
+    noturno_vagas_remanescentes: 1
+  q2:
+    diurno_total_vagas: 101
+    diurno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 31
+    noturno_total_vagas: 37
+    noturno_vagas_ano_atual: 37
+    noturno_vagas_remanescentes: 0
+  q3:
+    diurno_total_vagas: 88
+    diurno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 18
+    noturno_total_vagas: 18
+    noturno_vagas_ano_atual: 18
+    noturno_vagas_remanescentes: 0
+2025:
+  q1:
+    diurno_total_vagas: 140
+    diurno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 70
+    noturno_total_vagas: 72
+    noturno_vagas_ano_atual: 70
+    noturno_vagas_remanescentes: 2
+  q2:
+    diurno_total_vagas: 125
+    diurno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 55
+    noturno_total_vagas: 29
+    noturno_vagas_ano_atual: 29
+    noturno_vagas_remanescentes: 0
+  q3:
+    diurno_total_vagas: 110
+    diurno_vagas_ano_atual: 70
+    diurno_vagas_remanescentes: 40
+    noturno_total_vagas: 8
+    noturno_vagas_ano_atual: 8
+    noturno_vagas_remanescentes: 0
